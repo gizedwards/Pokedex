@@ -1,0 +1,11 @@
+h1 {
+    background-color: aliceblue;
+}
+
+h2 {
+    text-transform: capitalize;
+}
+
+li {
+    text-transform: capitalize;
+}
